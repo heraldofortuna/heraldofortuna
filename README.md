@@ -16,7 +16,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/heraldo-fortuna/" target="blank"><img align="center" src="assets/linkedin.svg" alt="Linkedin of Heraldo Fortuna" height="30" width="30" /></a>
-  <a href="https://www.facebook.com/heraldo.fortuna" target="blank"><img align="center" src="assets/facebook.svg" alt="Facebook of Heraldo Fortuna" height="30" width="30" /></a>
   <a href="https://www.instagram.com/fortunaheraldo/" target="blank"><img align="center" src="assets/instagram.svg" alt="Instagram of Heraldo Fortuna" height="30" width="30" /></a>
 </p>
 
