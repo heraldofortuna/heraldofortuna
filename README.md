@@ -12,6 +12,14 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: ...
 
+### Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/heraldo-fortuna/" target="blank"><img align="center" src="assets/linkedin.svg" alt="Linkedin of Heraldo Fortuna" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/heraldo.fortuna" target="blank"><img align="center" src="assets/facebook.svg" alt="Facebook of Heraldo Fortuna" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/fortunaheraldo/" target="blank"><img align="center" src="assets/instagram.svg" alt="Instagram of Heraldo Fortuna" height="30" width="30" /></a>
+</p>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
