@@ -5,7 +5,7 @@
 - 🔭 I'm currently working as Freelancer Web Developer.
 - 🌱 I’m currently learning Node and improving my skills on JS.
 - 👯 I’m looking to collaborate on technology / education projects.
-- 🥅 2020 Goals: Contribute more to Open Source.
+- 🥅 2021 Goals: Contribute more to Open Source.
 - ⚡ Fun fact: I love play shooter videogames and play my electric guitar.
 
 ### Connect with me:
