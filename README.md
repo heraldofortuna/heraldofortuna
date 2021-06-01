@@ -12,7 +12,10 @@
 
 <p align="left">
   <a href="https://twitter.com/heraldofortuna" target="blank"><img align="center" src="assets/twitter.svg" alt="Twitter of Heraldo Fortuna" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/heraldo-fortuna/" target="blank"><img align="center" src="assets/linkedin.svg" alt="Linkedin of Heraldo Fortuna" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/heraldo-fortuna/" target="blank"><img align="center" src="assets/linkedin.svg" alt="Linkedin of Heraldo Fortuna" height="30" width="30" /</a>
+  <a href="https://dev.to/heraldofortuna">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Heraldo Fortuna's DEV Community Profile" height="30" width="30">
+  </a>
 </p>
 
 ### My Github Statistics:
