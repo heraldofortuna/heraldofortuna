@@ -5,7 +5,7 @@
 - 🔭 I'm currently working as Frontend Developer in Valtech.
 - 🌱 I’m currently learning Typescript and improving my skills on React.
 - 👯 I’m looking to collaborate on technology / education projects.
-- 🥅 2023 Goals: Contribute more to dev communities.
+- 🥅 2024 Goals: Contribute more to dev communities.
 - ⚡ Fun fact: I love play videogames and play my electric guitar.
 
 ### Connect with me:
