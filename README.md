@@ -5,7 +5,7 @@
 - 🔭 I'm currently working as Frontend Developer in CSTI | Culqi.
 - 🌱 I’m currently learning Next and Cloud Computing.
 - 👯 I’m looking to collaborate on technology / education projects.
-- 🥅 2025 Goals: Contribute more to dev communities.
+- 🥅 Goals: Get more dev certificates.
 - ⚡ Fun fact: I love play videogames and play my electric guitar.
 
 ### Connect with me:
